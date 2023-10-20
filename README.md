@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Q-AID Qauntum AI](https://github.com/abtzpro/Q-AID) a hybrid quantum-classical machine learning model known as a Variational Quantum Classifier (VQC). It leverages the power of quantum computers to process and identify patterns in the dataset that may not be easily discernable with classical computing methods.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abtzpro](https://github.com/abtzpro) and [https://github.com/OfficialAdamRivers] (https://github.com/OfficialAdamRivers)
+- 👨‍💻 All of my projects are available at [https://github.com/abtzpro](https://github.com/abtzpro) and [https://github.com/OfficialAdamRivers](https://github.com/OfficialAdamRivers)
 
 - 📝 I regularly write articles on (Cybersecurity events and current cybersecurity insights regarding the SMB and Enterpise markets)
 
